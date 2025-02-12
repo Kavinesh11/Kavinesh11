@@ -1,19 +1,22 @@
-# 👋 Hey there, I'm Kavinesh!
+# Hey there, I'm Kavinesh!  
 
 <div align="center">
-  
-Turning caffeine into code since [Error 404: Start Date Not Found] ☕  
-Professional bug creator turned occasional bug fixer  
-
+  <h1>👋</h1>  
 </div>  
 
 ---
 
-<h1 align="center">Tech Stack</h1>
+<div align="center">  
+  ☕ Turning caffeine into code since **[Error 404: Start Date Not Found]**  
+</div>  
+
+---
+
+<h2 align="center">Tech Stack</h2>  
 
 <div align="center">
   <img src="https://img.icons8.com/fluency/48/000000/laptop.png"/>
-</div>
+</div>  
 
 ## Languages & Frameworks  
 <p align="center">
@@ -23,13 +26,13 @@ Professional bug creator turned occasional bug fixer
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/react.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ## Databases  
@@ -37,6 +40,8 @@ Professional bug creator turned occasional bug fixer
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/supabase-%232E2E2E.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+  <img src="https://img.shields.io/badge/cockroachdb-%235E85C0.svg?style=for-the-badge&logo=cockroachlabs&logoColor=white"/>
 </p>
 
 ## Tools & Technologies  
@@ -68,8 +73,11 @@ Professional bug creator turned occasional bug fixer
 ---
 
 <div align="center">
-  
-⚡ Fun fact: I speak fluent Python, broken C++, and sarcasm  
-💭 Currently thinking: "Is it a bug or a feature? Let's call it a feature."  
-  
-</div>
+  <h1>⚡</h1>  
+  <p>Fun fact: I speak fluent Python, broken C++, and sarcasm</p>  
+</div>  
+
+<div align="center">
+  <h1>💭</h1>  
+  <p>Currently thinking: "Is it a bug or a feature? Let's call it a feature."</p>  
+</div>  
