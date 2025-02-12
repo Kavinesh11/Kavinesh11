@@ -1,7 +1,5 @@
-# Hey there, I'm Kavinesh!  
-
 <div align="center">
-  <h1>👋</h1>  
+  <h1>Hey there, I'm Kavinesh! 👋</h1>  
 </div>  
 
 ---
