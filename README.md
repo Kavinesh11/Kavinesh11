@@ -7,15 +7,18 @@ Professional bug creator turned occasional bug fixer
   
 </div>
 
-🛠️ Tech Stack
+💻 Tech Stack
+Languages & Frameworks
+Python C++ C Java Rust JavaScript React.js Node.js Flask FastAPI TailwindCSS Next.js Django Bootstrap
 
-pythonCopymy_brain = {
-    "Web Dev": ["HTML", "CSS", "JavaScript"],
-    "App Dev": ["Android Studio", "Java"],
-    "Languages": ["Python 🐍", "C++"],
-    "Learning": ["AI/ML", "IoT"],
-    "Status": "Debugging life.exe..."
-}
+Databases
+MySQL Postgres MongoDB
+
+Tools & Technologies
+Git Linux Firebase Docker Kubernetes AWS EKS AWS EC2 S3 Netlify
+
+Data Science & AI
+TensorFlow PyTorch NumPy Keras Matplotlib Pandas Plotly Notion Arduino
 
 <div align="center">
   
