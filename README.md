@@ -2,13 +2,6 @@
   <h1>Hey there, I'm Kavinesh! 👋</h1>  
 </div>  
 
----
-
-<div align="center">  
-  ☕ Turning caffeine into code since **[Error 404: Start Date Not Found]**  
-</div>  
-
----
 
 <h2 align="center">Tech Stack</h2>  
 
