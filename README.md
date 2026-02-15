@@ -2,13 +2,6 @@
   <h1>Hey there, I'm Kavinesh! 👋</h1>  
 </div>  
 
-
-<h2 align="center">Tech Stack</h2>  
-
-<div align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/laptop.png"/>
-</div>  
-
 ## Languages & Frameworks  
 <p align="center">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
