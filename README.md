@@ -64,11 +64,6 @@
 ---
 
 <div align="center">
-  <h1>⚡</h1>  
-  <p>Fun fact: I speak fluent Python, broken C++, and sarcasm</p>  
-</div>  
-
-<div align="center">
   <h1>💭</h1>  
   <p>Currently thinking: "Is it a bug or a feature? Let's call it a feature."</p>  
 </div>  
