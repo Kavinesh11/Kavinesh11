@@ -57,7 +57,7 @@
     
     
   <div style="flex:0 0 300px; text-align:center;">
-      <img src="Assets/newspaper.jpg" alt="Newspaper" width="300" style="border:2px solid silver; border-radius:8px;"/>
+      <img src="assets/newspaper.jpg" alt="Newspaper" width="300" style="border:2px solid silver; border-radius:8px;"/>
     </div>
     
   </div>
@@ -66,7 +66,7 @@
   
   <!-- Left side: King image -->
   <div style="flex:0 0 300px; text-align:center; margin-right:20px;">
-    <img src="Assets/king.jpg" width="300" style="border:2px solid silver; border-radius:8px;"/>
+    <img src="assets/king.jpg" width="300" style="border:2px solid silver; border-radius:8px;"/>
   </div>
   
   <!-- Right side: Research + Currently Cooking -->
