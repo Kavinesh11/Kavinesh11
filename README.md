@@ -1,62 +1,196 @@
 <div align="center">
-  <h1>Hey there, I'm Kavinesh! 👋</h1>  
+  <img src="assets/hands.png" alt="Alt text" width="1000"/>
 </div>  
 
-## Languages & Frameworks  
-<p align="center">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/react.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+<div align="center">
+  <h1>ABOUT ME </h1>
+  
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <!-- Video on the left -->
+    <video src="Assets/eye.mp4" width="300" autoplay muted loop controls>
+      Your browser does not support the video tag.
+    </video>
+    
+  <div style="margin-left: 20px; max-width: 400px; text-align: left; line-height: 1.6;">
+      <p>
+        I'm currently a Sophomore at <strong>Amrita Vishwa Vidyapeetham</strong>, 
+        pursuing a degree in <strong>Computer Science and Engineering</strong> as well as a 
+        <strong>BS in Data Science</strong> at <strong>IIT Madras</strong>.
+      </p>
+      
+  <p>
+        <span style="background:#111; color:fff; padding:4px 8px; border-radius:6px;">Backend Engineer</span>  
+        <span style="background:#111; color:#fff; padding:4px 8px; border-radius:6px;">AI & DL Research</span>  
+        <span style="background:#111; color:#fff; padding:4px 8px; border-radius:6px;">System Architecture</span>  
+        <span style="background:#111; color:#fff; padding:4px 8px; border-radius:6px;">UI/UX</span>  
+        <span style="background:#111; color:#fff; padding:4px 8px; border-radius:6px;">Agentic AI Dev</span>
+      </p>
+    </div>
+  </div>
+</div>
 
-## Databases  
-<p align="center">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/supabase-%232E2E2E.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-  <img src="https://img.shields.io/badge/cockroachdb-%235E85C0.svg?style=for-the-badge&logo=cockroachlabs&logoColor=white"/>
-</p>
 
-## Tools & Technologies  
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-%23232F3E.svg?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
+<div style=" color:silver; padding:20px; border-radius:10px;">
+  <h1 align="center">Chronicles</h1>
+  
+  <div style="display:flex; align-items:flex-start; justify-content:center;">
+    
+    
+  <div style="flex:1; text-align:left; line-height:1.6; margin-right:20px;">
+      <h2 style="color:silver;">Experience</h2>
+      
+  <p><strong>Web Development Intern</strong><br>
+      Scriptnex, India</p>
+      
+  <p><strong>AI and Backend Intern</strong><br>
+      GTKonnect, Irvine, CA </p>
+      
+  <p><strong>MTS Intern</strong><br>
+      Zoho, Chennai, India </p>
+      
+  <p><strong>AI and Backend Intern</strong>
+      Iquantm Technologies, UK</p>
+      
+  <p><strong>AI Advisor</strong><br>
+      Portal.so </p>
+    </div>
+    
+    
+  <div style="flex:0 0 300px; text-align:center;">
+      <img src="Assets/newspaper.jpg" alt="Newspaper" width="300" style="border:2px solid silver; border-radius:8px;"/>
+    </div>
+    
+  </div>
 
-## Data Science & AI  
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/matplotlib-%2300599C.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+  <div style="display:flex; align-items:flex-start; justify-content:center;">
+  
+  <!-- Left side: King image -->
+  <div style="flex:0 0 300px; text-align:center; margin-right:20px;">
+    <img src="Assets/king.jpg" width="300" style="border:2px solid silver; border-radius:8px;"/>
+  </div>
+  
+  <!-- Right side: Research + Currently Cooking -->
+  <div style="flex:1; text-align:left; line-height:1.6;">
+    
+  <h2 style="color:silver;">Research Experience</h2>
+    <p><strong>Sony SSUP</strong></p>
+    <p><strong>Volvo</strong></p>
+    
+  <h2 style="color:silver; margin-top:20px;"> Cooking </h2>
+    <p><strong>AI Research</strong><br>
+    Atlassian</p>
+    
+  <p><strong>Undergraduate Research Assistant</strong><br>
+    Stanford, United States</p>
+    
+  <p><strong>Upcoming SWE Intern</strong><br>
+    Amazon, Dublin, Ireland</p>
+    
+  </div>
+  
+</div>
+
+  
+</div>
+</div>
+
+
+### Programming Languages & Frameworks
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=py" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=go" title="Go"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React.js"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=next" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=electron" title="Electron"/>
+  <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js"/>
+  <img src="https://skillicons.dev/icons?i=threejs" title="Three.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/>
+  <img src="https://skillicons.dev/icons?i=md" title="Markdown"/>
+</div>
 
 ---
 
-<div align="center">
-  <h1>💭</h1>  
-  <p>Currently thinking: "Is it a bug or a feature? Let's call it a feature."</p>  
-</div>  
+### Development Tools & Technologies  
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+   <img src="https://skillicons.dev/icons?i=npm" title="npm"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="Sqlite"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=apple" title="MacOS"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/>
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+  <img src="https://skillicons.dev/icons?i=notion" title="Notion"/>
+  <img src="https://skillicons.dev/icons?i=obsidian" title="Obsidian"/>
+</div>
+
+
+---
+
+<div color:silver; padding:20px; border-radius:10px;">
+  <h1 align="center">More of Me ?</h1>
+  
+  <div style="display:flex; align-items:flex-start; justify-content:center;">
+    
+    
+  <div style="flex:0 0 300px; text-align:center; margin-right:20px;">
+      <img src="assets/goat.jpg" width="300" style="border:2px solid silver; border-radius:8px;" alt="King"/>
+    </div>
+    
+  <div style="flex:1; text-align:left; line-height:1.6;">
+      
+  <h2 style="color:silver;">Love doing Hackathons and have won 8 of them</h2>
+  <h2 style="color:silver;">Have been an active guy in MUNs and Quizzes</h2>
+  <h2 style="color:silver;">President @iDEA Amrita</h2>
+  <h2 style="color:silver;">I write poetry that bends words to my will and love watching cricket </h2>
+  </div>
+    
+  </div>
+</div>
+<div color:silver; padding:20px; border-radius:10px;">
+  <h2 align="center"></h2>
+  
+  <div style="display:flex; align-items:center; justify-content:center;">
+    <img src="assets/end.jpg" width="1000" ; border-radius:10px;" alt="The End"/>
+  </div>
+</div>
+
