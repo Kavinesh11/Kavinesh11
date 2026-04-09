@@ -7,7 +7,7 @@
   
   <div style="display: flex; align-items: center; justify-content: center;">
     <!-- Video on the left -->
-    <video src="Assets/eye.mp4" width="300" autoplay muted loop controls>
+    <video src="assets/eye.mp4" width="300" autoplay muted loop controls>
       Your browser does not support the video tag.
     </video>
     
