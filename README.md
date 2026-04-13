@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/eye.gif" alt="Eye Animation" width="300"/>
+  <img src="https://raw.githubusercontent.com/Kavinesh11/Kavinesh11/main/assets/eye.gif" alt="Eye Animation" width="300"/>
 </div>
 
 <div align="center">
@@ -47,14 +47,14 @@
       <img src="assets/king.jpg" width="300" style="border:2px solid silver; border-radius:8px;"/>
     </td>
     <td valign="top" width="55%">
-      <h2>Research Experience</h2>
-      <p><strong>Sony SSUP</strong></p>
-      <p><strong>Volvo</strong></p>
-
-      <h2>Cooking</h2>
-      <p><strong>AI Research</strong><br>Atlassian</p>
-      <p><strong>Undergraduate Research Assistant</strong><br>Stanford, United States</p>
-      <p><strong>Upcoming SWE Intern</strong><br>Amazon, Dublin, Ireland</p>
+      <br/>
+      <b>🔬 Research Experience</b><br/><br/>
+      <b>Sony SSUP</b><br/>
+      <b>Volvo</b><br/><br/>
+      <b>🍳 Currently Cooking</b><br/><br/>
+      <b>AI Research</b> — Atlassian<br/>
+      <b>Undergraduate Research Assistant</b> — Stanford, United States<br/>
+      <b>Upcoming SWE Intern</b> — Amazon, Dublin, Ireland<br/>
     </td>
   </tr>
 </table>
