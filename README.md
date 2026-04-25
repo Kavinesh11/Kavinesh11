@@ -48,10 +48,10 @@
     </td>
     <td valign="top" width="55%">
       <br/>
-      <b>🔬 Research Experience</b><br/><br/>
+      <b> Research Experience</b><br/><br/>
       <b>Sony SSUP</b><br/>
       <b>Volvo</b><br/><br/>
-      <b>🍳 Currently Cooking</b><br/><br/>
+      <b> Currently Cooking</b><br/><br/>
       <b>AI Research</b> — Atlassian<br/>
       <b>Undergraduate Research Assistant</b> — Stanford, United States<br/>
       <b>Upcoming SWE Intern</b> — Amazon, Dublin, Ireland<br/>
